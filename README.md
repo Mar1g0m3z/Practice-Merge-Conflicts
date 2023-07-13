@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# third-branch
-=======
-# fourth-branch
->>>>>>> fourth-branch
+ third-branch
+
+ main
